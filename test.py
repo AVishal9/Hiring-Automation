@@ -1,4 +1,4 @@
-# @erp.feature FEAT-TEST-001
+# @erp.feature 4me4nledo8
 
 def calculate_discount(price, rate):
     """
